@@ -10,7 +10,9 @@
   
 - 🌱 I’m currently learning React and Cinema.js  
     
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+- To See more of my work visit: https://kunal-1207.github.io/
   
 
 <br/>  
