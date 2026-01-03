@@ -22,7 +22,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kunal-1207&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="kunal-1207" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kunal-1207&theme=radical&hide_border=true&date_format=j%20M%5EY)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kunal-1207)](https://git.io/streak-stats)
 
 </div>
 
