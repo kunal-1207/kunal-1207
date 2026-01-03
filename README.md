@@ -64,10 +64,6 @@ With expertise spanning frontend technologies, backend development, and now infr
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-1207&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-1207&theme=redical&area=true&hide_border=true" />
 </div>
 
@@ -111,7 +107,7 @@ Now transitioning to DevOps, I leverage my development experience to create infr
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kunal-waghmare-b48b1b226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:kunalwaghmare1207@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto=kunalwaghmare1207@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/kunal-1207" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
@@ -127,7 +123,8 @@ Now transitioning to DevOps, I leverage my development experience to create infr
 <div align="center">
   <h3>📊 Profile Analytics</h3>
   <img src="https://komarev.com/ghpvc/?username=kunal-1207&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Profile%20Rank-Top%200.1%-brightgreen" alt="Profile Rank" />
+  <img src="https://img.shields.io/github/followers/kunal-1207?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Commits-Top_1%25-green?style=flat" alt="Top 1% Commits" />
 </div>
 
 <footer>
