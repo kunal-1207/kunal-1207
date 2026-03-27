@@ -101,11 +101,12 @@ I bring a development background into SRE, enabling me to bridge the gap between
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&theme=radical" />
-</div>
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-1207&theme=radical&hide_border=true" />
+
+</div>
 
 ## 📌 Current Focus
 
