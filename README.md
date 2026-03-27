@@ -108,6 +108,16 @@ I bring a development background into SRE, enabling me to bridge the gap between
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-1207&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
 ## 📌 Current Focus
 
 - Advanced Kubernetes (Networking, Security)
