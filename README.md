@@ -1,263 +1,382 @@
-<div align="center">
+# Hi, I'm Kunal Waghmare 👋
 
-Hi, I’m Kunal Waghmare 👋
+### Cloud DevOps Engineer | Site Reliability Engineering | Platform Engineering
 
-Cloud DevOps Engineer | Site Reliability Engineering | Kubernetes | AWS | GCP | Terraform
+I build cloud-native infrastructure, automate deployments, and develop Kubernetes platforms with a focus on reliability, security, observability, and operational efficiency.
 
-I build and explore cloud-native infrastructure, Kubernetes platforms, deployment automation, and observability systems.
+📍 Nagpur, Maharashtra, India · Open to Remote & Relocation
+⏳ Notice Period: 15 Days · Preferred Locations: Pune, Hyderabad, Bengaluru
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://devops-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kunal-1207)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-chi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
 
-📍 Nagpur, Maharashtra, India · Open to remote opportunities and relocation
+---
 
-</div>
+## ⚡ 60-Second Recruiter Overview
 
-👨‍💻 About Me
+- **What I do:** Cloud DevOps, Kubernetes, AWS/GCP infrastructure, Terraform, CI/CD, GitOps, observability, and site reliability engineering.
+- **Featured work:** OpsForge 2.0, an Internal Developer Platform and SRE framework, and Valkyrie, a cloud-native platform built around AWS EKS, Terraform, Argo CD, Prometheus, and Grafana.
+- **Professional background:** 3 years at Infosubway Technologies across software engineering, DevOps, and SRE, preceded by a 6-month DevOps internship at Datacom.
 
-I’m a Cloud DevOps Engineer with experience across software engineering, DevOps, and site reliability engineering. My work and hands-on projects focus on making cloud infrastructure reproducible, deployments consistent, and systems easier to observe and operate.
+**Target roles:** Cloud DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud Infrastructure Engineer
 
-● Core focus: DevOps, SRE, cloud infrastructure, Kubernetes, and infrastructure as code.
+**Work preferences:** Remote or relocation · Pune · Hyderabad · Bengaluru
 
-● Cloud: AWS and Google Cloud Platform (GCP).
+---
 
-● Automation: Terraform, CI/CD pipelines, GitOps, Python, and Bash.
+## 👨‍💻 About Me
 
-● Observability: Prometheus, Grafana, OpenTelemetry, and logging/monitoring tools.
+I'm a Cloud DevOps Engineer with an MCA from Jain University and professional experience spanning software engineering, DevOps, and site reliability engineering.
 
-● Security: Container and dependency vulnerability assessment, least-privilege access, and security-aware delivery.
+At Infosubway Technologies, I worked across software engineering and infrastructure operations, developing experience in deployment automation, cloud infrastructure, monitoring, and reliability-focused engineering.
 
-● Current direction: Building practical platform engineering capabilities through projects such as OpsForge and Valkyrie.
+Beyond my professional experience, I build hands-on projects that explore modern platform engineering, cloud-native architecture, infrastructure as code, security automation, and operational tooling.
 
-I value infrastructure that is repeatable, observable, secure, and maintainable—not just infrastructure that works once.
+My engineering approach is built around five principles:
 
-🎯 What I’m Looking For
+- **Reproducibility:** Infrastructure and deployments should be consistent and repeatable.
+- **Reliability:** Systems should be observable, resilient, and recoverable.
+- **Automation:** Eliminate repetitive operational work wherever practical.
+- **Security:** Integrate vulnerability assessment and secure configuration into engineering workflows.
+- **Maintainability:** Build systems that engineers can understand, operate, and improve.
 
-I’m interested in roles such as:
+I'm particularly interested in the intersection of Kubernetes, cloud infrastructure, platform engineering, and SRE.
 
-● Cloud DevOps Engineer
+---
 
-● Site Reliability Engineer (SRE)
+## 🎯 Career Focus
 
-● Cloud Infrastructure Engineer
+I'm actively exploring opportunities in:
 
-● Platform Engineer
+- Cloud DevOps Engineering
+- Site Reliability Engineering (SRE)
+- Platform Engineering
+- Cloud Infrastructure Engineering
+- DevSecOps Engineering
 
-I’m open to remote roles and relocation opportunities, including Pune, Hyderabad, and Bengaluru.
+I'm open to remote opportunities and relocation across India, particularly Pune, Hyderabad, and Bengaluru.
 
-🧰 Technical Skills
+---
 
-Cloud & Infrastructure
+## 🧰 Technical Skills
 
-AWS
-GCP
-Terraform
-Ansible
+### Cloud Platforms & Infrastructure
 
-Containers & Platform Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-Docker
-Kubernetes
-Helm
-Argo CD
-Crossplane
+- **AWS:** EC2, EKS, IAM, VPC, Lambda, CloudWatch, Route 53
+- **Google Cloud Platform:** GCP infrastructure, Kubernetes, Terraform, Cloud Operations
+- **Infrastructure as Code:** Terraform, Ansible
 
-CI/CD & Automation
+### Containers & Platform Engineering
 
-Jenkins
-GitHub Actions
-GitLab CI
-Python
-Bash
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-3B82F6?style=flat-square)
 
-Observability & Reliability
+- Docker and containerized workloads
+- Kubernetes and Amazon EKS
+- Helm-based application deployment
+- Argo CD and GitOps workflows
+- Crossplane and platform provisioning concepts
+- KEDA and event-driven workload scaling
 
-Prometheus
-Grafana
-OpenTelemetry
-Loki
-ELK Stack
+### CI/CD & Automation
 
-Security & Systems
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-Trivy
-Linux
-Git
+- Jenkins, GitHub Actions, and GitLab CI
+- Python and Bash scripting
+- Infrastructure provisioning automation
+- Deployment pipelines and release workflows
+- GitOps-oriented delivery
 
-AWS services explored/used: EC2, EKS, IAM, VPC, Lambda, CloudWatch, and Route 53.
+### Observability & Reliability Engineering
 
-> Keep this section aligned with your actual level of experience. In interviews, distinguish production experience from tools used in personal projects or learning labs.
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=black)
 
-🚀 Featured Projects
+- Prometheus and Grafana
+- OpenTelemetry
+- Loki and ELK Stack
+- Metrics, logs, and observability pipelines
+- Monitoring, alerting, and reliability workflows
+- SRE concepts, incident response, and operational improvement
 
-1. OpsForge 2.0 — Internal Developer Platform & SRE Framework
+### Security & Systems
 
-A platform-engineering project exploring a unified approach to infrastructure provisioning, workload operations, delivery automation, and reliability workflows.
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Focus areas
+- Linux administration and troubleshooting
+- Container and dependency vulnerability assessment
+- Trivy and security-aware CI/CD
+- IAM, RBAC, and access-control concepts
+- Git and version control
+- Ubuntu/Debian package security analysis
 
-● Infrastructure and platform automation using Terraform, Kubernetes, and Crossplane.
+*The technologies listed above span professional experience, personal projects, and hands-on learning. Their inclusion does not imply production-level experience with every tool.*
 
-● Workload scaling and orchestration concepts with KEDA.
+---
 
-● Observability with OpenTelemetry and supporting monitoring components.
+# 🚀 Featured Projects
 
-● GitOps-oriented delivery and operational workflows.
+## 1. OpsForge 2.0 — Internal Developer Platform & SRE Framework
 
-● Reliability and resilience experimentation, including Chaos Mesh.
+**Focus:** Platform Engineering · Developer Experience · Infrastructure Automation · SRE
 
-● A multi-language toolchain spanning Go, Python, TypeScript, Groovy, and PowerShell.
+OpsForge 2.0 explores a unified platform for infrastructure provisioning, workload operations, deployment automation, and reliability engineering.
 
-Repository: [OpsForge 2.0 repository URL](https://github.com/kunal-1207/OpsForge)
+The project brings together cloud-native infrastructure, developer workflows, observability, and operational tooling to explore how platform capabilities can be delivered through reusable engineering components.
 
-Evidence to add: architecture diagram, setup instructions, working demo, sample deployment, and screenshots or test results.
+### Architecture & Technology Areas
 
-2. Valkyrie Platform — Cloud-Native DevOps Platform
+| Domain | Technologies |
+|---|---|
+| Infrastructure as Code | Terraform |
+| Container Orchestration | Kubernetes |
+| Platform Provisioning | Crossplane |
+| Workload Scaling | KEDA |
+| Observability | OpenTelemetry |
+| GitOps | Git-based delivery workflows |
+| Resilience Engineering | Chaos Mesh |
+| Backend & Automation | Go, Python, Groovy, PowerShell |
+| Developer Interfaces | TypeScript |
 
-A cloud-native platform project built around Kubernetes on AWS, infrastructure as code, GitOps delivery, and observability.
+### Engineering Focus
 
-Technology areas
+- Explore reusable infrastructure and platform provisioning workflows.
+- Integrate Kubernetes-based workload orchestration.
+- Develop platform automation and developer-facing operational workflows.
+- Explore telemetry collection and observability integration.
+- Investigate workload scaling and resilience testing.
+- Bring multiple languages and tools together within a cohesive platform architecture.
 
-● AWS EKS and Terraform for infrastructure.
+🔗 **Repository:** [OpsForge](https://github.com/kunal-1207/OpsForge)
 
-● Argo CD for GitOps-based application delivery.
+---
 
-● Prometheus and Grafana for monitoring and dashboards.
+## 2. Valkyrie Platform — Cloud-Native DevOps Platform
 
-● Ollama and an SRE Command Center concept for operational workflows.
+**Focus:** AWS · Kubernetes · GitOps · Observability · SRE
 
-Repository: [Valkyrie repository URL](https://github.com/kunal-1207/valkarie_platform)
+Valkyrie is a cloud-native DevOps platform project built around Kubernetes on AWS, infrastructure as code, GitOps-based delivery, and operational observability.
 
-Evidence to add: deployment workflow, infrastructure layout, monitoring screenshots, and a concise walkthrough of the platform.
+The project explores how cloud infrastructure, application delivery, monitoring, and operational tooling can work together as a cohesive platform.
 
-3. Cloud Native DevOps Platform
+### Technology Stack
 
-A project focused on repeatable cloud-native deployment workflows using infrastructure as code, Kubernetes, GitOps, and monitoring.
+| Domain | Technologies |
+|---|---|
+| Cloud | AWS |
+| Kubernetes | Amazon EKS |
+| Infrastructure as Code | Terraform |
+| GitOps | Argo CD |
+| Monitoring | Prometheus |
+| Dashboards | Grafana |
+| AI/Local Model Integration | Ollama |
+| Operations | SRE Command Center concept |
 
-Technology: Terraform · Kubernetes · Argo CD · Prometheus
+### Engineering Focus
 
-Repository: [Cloud Native Devops Platform URL](https://github.com/kunal-1207/cloud-native-devops-platform)
+- Provision cloud infrastructure using Terraform.
+- Explore Kubernetes-based workload deployment on Amazon EKS.
+- Manage application delivery through Argo CD.
+- Integrate Prometheus and Grafana for monitoring and visualization.
+- Explore AI-assisted operational workflows through Ollama.
+- Develop an SRE Command Center concept for operational visibility.
 
-🔐 Security & Developer Tools
+🔗 **Repository:** [Valkyrie Platform](https://github.com/kunal-1207/valkarie_platform)
 
-Ubuntu Vulnerability Engine (UVE)
+---
 
-A read-only vulnerability auditing tool for Ubuntu/Debian environments. The project includes native host package scanning, container/OCI image filesystem scanning, CycloneDX SBOM ingestion, and vulnerability correlation with public security data sources.
+## 3. Cloud Native DevOps Platform
 
-Capabilities
+**Focus:** Infrastructure as Code · Kubernetes · CI/CD · GitOps
 
-● Detect installed package information using Debian package metadata.
+A cloud-native infrastructure and deployment project focused on repeatable provisioning, container orchestration, GitOps, and monitoring.
 
-● Scan container image filesystems without executing the image.
+### Technology Stack
 
-● Ingest CycloneDX v1.5 SBOMs.
+- Terraform
+- Kubernetes
+- Argo CD
+- Prometheus
 
-● Correlate findings with Canonical OSV, CISA KEV, and FIRST.org data.
+### Engineering Focus
 
-● Published on PyPI.
+- Infrastructure provisioning through code.
+- Kubernetes-based application deployment.
+- GitOps-oriented delivery workflows.
+- Monitoring integration for cloud-native workloads.
 
-Package: Ubuntu Vulnerability Engine on PyPI
+🔗 **Repository:** [Cloud Native DevOps Platform](https://github.com/kunal-1207/cloud-native-devops-platform)
 
-Repository: [UVE URL](https://github.com/kunal-1207/ubuntu-vulnerability-tracker)
+---
 
-> Add the exact installation command, supported distributions, example output, test status, and limitations from the project’s documentation before publishing.
+# 🔐 Security Engineering & Developer Tools
 
-🧪 Other Projects
+## Ubuntu Vulnerability Engine (UVE)
 
-|Project                         |Description                                                         |Technologies      |
-|--------------------------------|--------------------------------------------------------------------|------------------|
-|**QuillDB**                     |Rust-based database engine project.                                 |Rust              |
-|**Reliability Control Plane**   |Project exploring reliability-focused operational controls.         |Add verified stack|
-|**SparkSight**                  |Scala-based observability platform project.                         |Scala             |
-|**Healthcare RCM Data Platform**|Data-platform project focused on healthcare revenue-cycle workflows.|Add verified stack|
+**A read-only vulnerability auditing engine for Ubuntu and Debian environments.**
 
-Project descriptions above are intentionally brief. Link each entry to its repository and add only features that are implemented and documented.
+UVE is a security-focused CLI tool designed to identify vulnerable software packages and correlate package information with public vulnerability intelligence.
 
-💼 Professional Experience
+The project supports native host auditing, container image filesystem inspection, and CycloneDX SBOM ingestion.
 
-Infosubway Technologies — Software Engineer / DevOps Engineer / SRE
+### Key Capabilities
 
-January 2023 – December 2025
+- **Native host scanning:** Identify installed packages using Debian package metadata and operating-system information.
+- **Container image scanning:** Inspect Docker/OCI image filesystems without executing the image.
+- **SBOM ingestion:** Ingest CycloneDX v1.5 software bills of materials.
+- **Vulnerability correlation:** Match package information against vulnerability intelligence.
+- **Security intelligence:** Integrate data from Canonical OSV, CISA Known Exploited Vulnerabilities (KEV), and FIRST.org.
+- **Read-only operation:** Designed to audit environments without modifying the scanned host.
+- **Distribution:** Published on PyPI.
 
-● Worked across software engineering, DevOps, and site reliability engineering responsibilities.
+### Why This Project Matters
 
-● Add a verified bullet describing the infrastructure, services, or deployment workflows you owned.
+UVE explores practical approaches to software supply-chain security, vulnerability assessment, container security, and automated security reporting.
 
-● Add a verified bullet describing a reliability, monitoring, incident-response, or operational improvement.
+It connects infrastructure engineering with security tooling by making vulnerability information accessible through a repeatable auditing workflow.
 
-● Add a verified bullet describing automation or delivery improvements, with a metric only where you can substantiate it.
+🔗 **GitHub Repository:** [Ubuntu Vulnerability Engine](https://github.com/kunal-1207/ubuntu-vulnerability-tracker)
 
-Datacom — DevOps Intern
+📦 **PyPI:** [Ubuntu Vulnerability Engine](https://pypi.org/)
 
-6-month internship · Ended November 2022
+---
 
-● Add a concise, accurate summary of the internship responsibilities, tools, and deliverables.
+# 🧪 Additional Engineering Projects
 
-> **Before publishing:** Replace the experience prompts above with specific, truthful achievements. Do not publish placeholder bullets. Include metrics such as availability, deployment time, provisioning time, or MTTR only if you can explain how they were measured and what your contribution was.
+| Project | Description | Primary Technology |
+|---|---|---|
+| **QuillDB** | A Rust-based database engine project exploring database internals and storage-engine concepts. | Rust |
+| **Reliability Control Plane** | A project exploring reliability-focused operational controls and system management. | See repository |
+| **SparkSight** | A Scala-based observability platform project. | Scala |
+| **Healthcare RCM Data Platform** | A data-platform project focused on healthcare revenue-cycle management workflows. | See repository |
 
-☁️ Google Cloud Learning
+These projects represent additional interests across systems programming, databases, observability, reliability engineering, and data platforms.
 
-I’ve completed Google Cloud learning activities and earned badges covering:
+---
 
-● Terraform on Google Cloud
+# 💼 Professional Experience
 
-● Deploy Kubernetes Apps on Google Cloud
+## Infosubway Technologies
 
-● Implement DevOps Workflows in Google Cloud
+**Software Engineer → DevOps Engineer / Site Reliability Engineer**
 
-● Monitor and Log with Google Cloud Operations Suite
+*January 2023 – December 2025 · 3 years*
 
-● Monitor Environments with Google Cloud Managed Service for Prometheus
+Worked across software engineering, DevOps, and site reliability engineering responsibilities, with a focus on cloud infrastructure, deployment workflows, automation, and operational reliability.
 
-View my Google Cloud skills and badges
+### Areas of Responsibility
 
-Replace the placeholder profile URL with your public Google Cloud Skills Boost profile.
+- Contributed across software engineering, DevOps, and SRE workflows.
+- Worked on infrastructure, deployment automation, and cloud-native operational practices.
+- Focused on improving deployment consistency, system observability, and operational efficiency.
+- Developed experience with cloud infrastructure, monitoring, automation, and reliability-focused engineering.
 
-📈 GitHub Activity
+### Engineering Outcomes
 
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username. -->
+My resume includes the following reported engineering metrics:
+
+- **99.9% availability**
+- **40% reduction in operational effort**
+- **50% reduction in infrastructure provisioning time**
+- **65% reduction in deployment time**
+- **50% reduction in MTTR**
+
+These figures should be associated with the specific systems, workflows, measurement periods, and contributions that produced them. They are not presented here as independently audited company-wide results.
+
+---
+
+## Datacom
+
+**DevOps Intern**
+
+*6-month internship · Ended November 2022*
+
+Completed a six-month DevOps internship, gaining early professional exposure to DevOps practices and engineering workflows.
+
+The internship preceded my full-time engineering role at Infosubway Technologies.
+
+---
+
+# ☁️ Google Cloud Learning & Badges
+
+I've completed Google Cloud learning activities covering infrastructure automation, Kubernetes, DevOps workflows, and cloud observability.
+
+### Learning Achievements
+
+- Terraform on Google Cloud
+- Deploy Kubernetes Apps on Google Cloud
+- Implement DevOps Workflows in Google Cloud
+- Monitor and Log with Google Cloud Operations Suite
+- Monitor Environments with Google Cloud Managed Service for Prometheus
+
+These learning activities complement my cloud-native projects and ongoing development in GCP infrastructure, Kubernetes, and observability.
+
+🔗 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
+
+---
+
+# 🎓 Education
+
+## Jain University
+
+**Master of Computer Applications (MCA)**
+
+CGPA: **7.8**
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="Top languages"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&hide_border=true"
+alt="Kunal Waghmare's GitHub statistics"
+/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&hide_border=true"
+alt="Most used programming languages"
+/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kunal-1207&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+<img
+src="https://streak-stats.demolab.com?user=kunal-1207&hide_border=true"
+alt="GitHub contribution streak"
+/>
 </p>
 
-📫 Connect With Me
+---
 
-● Portfolio: https://devops-portfolio-chi.vercel.app/
+# 📫 Connect With Me
 
-● LinkedIn: [https://www.linkedin.com/in/Kunal Waghmare](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/?isSelfProfile=true)
+- **GitHub:** [github.com/kunal-1207](https://github.com/kunal-1207)
+- **LinkedIn:** [linkedin.com/in/kunal-waghmare-b48b1b226](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
+- **Portfolio:** [devops-portfolio-chi.vercel.app](https://devops-portfolio-chi.vercel.app/)
+- **Email:** [kunalwaghmare1207@gmail.com](mailto:kunalwaghmare1207@gmail.com)
+- **Location:** Nagpur, Maharashtra, India
 
-● Email: kunalwaghmare1207@gmail.com
+I'm open to discussing opportunities involving Cloud DevOps, Kubernetes, AWS, GCP, Terraform, Site Reliability Engineering, infrastructure automation, observability, and platform engineering.
 
-● GitHub: https://github.com/kunal-1207
+---
 
-I’m open to discussing Cloud DevOps, SRE, Kubernetes, infrastructure automation, observability, and platform engineering opportunities.
-
-<div align="center">
-
-Building reliable systems through automation, observability, and continuous learning.
-
-</div>
+<p align="center">
+<i>Building reliable systems through automation, observability, security, and continuous learning.</i>
+</p>
