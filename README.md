@@ -117,7 +117,7 @@ Focus areas
 
 ● A multi-language toolchain spanning Go, Python, TypeScript, Groovy, and PowerShell.
 
-Repository: Add OpsForge 2.0 repository URL
+Repository: [OpsForge 2.0 repository URL](https://github.com/kunal-1207/OpsForge)
 
 Evidence to add: architecture diagram, setup instructions, working demo, sample deployment, and screenshots or test results.
 
@@ -135,7 +135,7 @@ Technology areas
 
 ● Ollama and an SRE Command Center concept for operational workflows.
 
-Repository: Add Valkyrie repository URL
+Repository: [Valkyrie repository URL](https://github.com/kunal-1207/valkarie_platform)
 
 Evidence to add: deployment workflow, infrastructure layout, monitoring screenshots, and a concise walkthrough of the platform.
 
@@ -145,7 +145,7 @@ A project focused on repeatable cloud-native deployment workflows using infrastr
 
 Technology: Terraform · Kubernetes · Argo CD · Prometheus
 
-Repository: Add repository URL
+Repository: [Cloud Native Devops Platform URL](https://github.com/kunal-1207/cloud-native-devops-platform)
 
 🔐 Security & Developer Tools
 
@@ -167,7 +167,7 @@ Capabilities
 
 Package: Ubuntu Vulnerability Engine on PyPI
 
-Repository: Add UVE GitHub repository URL
+Repository: [UVE URL](https://github.com/kunal-1207/ubuntu-vulnerability-tracker)
 
 > Add the exact installation command, supported distributions, example output, test status, and limitations from the project’s documentation before publishing.
 
@@ -239,7 +239,7 @@ Replace the placeholder profile URL with your public Google Cloud Skills Boost p
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=kunal-1207&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>
@@ -248,11 +248,11 @@ Replace the placeholder profile URL with your public Google Cloud Skills Boost p
 
 ● Portfolio: https://devops-portfolio-chi.vercel.app/
 
-● LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+● LinkedIn: [https://www.linkedin.com/in/Kunal Waghmare](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/?isSelfProfile=true)
 
-● Email: YOUR_EMAIL_ADDRESS
+● Email: kunalwaghmare1207@gmail.com
 
-● GitHub: https://github.com/YOUR_GITHUB_USERNAME
+● GitHub: https://github.com/kunal-1207
 
 I’m open to discussing Cloud DevOps, SRE, Kubernetes, infrastructure automation, observability, and platform engineering opportunities.
 
