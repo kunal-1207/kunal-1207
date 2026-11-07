@@ -143,15 +143,8 @@ A microservices-based application built around .NET architecture.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=kunal-1207&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&theme=nightowl&hide_border=true&langs_count=10"
-    alt="Kunal's Top Languages"
-  />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Achievements
