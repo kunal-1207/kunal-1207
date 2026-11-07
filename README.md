@@ -1,65 +1,201 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Kunal Waghmare</h1>
+# Hey, I'm Kunal Waghmare 👋
 
+### Cloud DevOps Engineer | Site Reliability Engineering | Platform Engineering | DevSecOps
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="kunal-1207's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=kunal-1207&theme=nightowl&hide_border=true&cache_seconds=86400" alt="kunal-1207's GitHub Streak" width="49%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" width="35" />
+  <strong>Building reliable, scalable, secure and automated cloud infrastructure.</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/kunal-1207">
+    <img src="https://img.shields.io/badge/GitHub-kunal--1207-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://devops-portfolio-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Cloud DevOps Engineer and Site Reliability Engineering enthusiast with **3+ years of professional engineering experience**, specializing in cloud infrastructure, Kubernetes orchestration, infrastructure automation, CI/CD engineering and production reliability.
+
+I enjoy engineering systems that are scalable, observable, secure and resilient.
+
+- ☁️ Cloud Infrastructure: AWS & Google Cloud Platform
+- ☸️ Containerization & Orchestration: Docker, Kubernetes & Helm
+- 🏗️ Infrastructure as Code: Terraform & Ansible
+- 🔄 CI/CD & GitOps: Jenkins, GitHub Actions, GitLab CI & ArgoCD
+- 📊 Observability: Prometheus, Grafana, ELK, Loki & Tempo
+- 🔐 DevSecOps: Trivy, IAM, RBAC & Secrets Management
+- 🐍 Automation & Scripting: Python & Bash
+- 🎯 Engineering Focus: Reliability, automation, security and platform engineering
+
+**Professional Highlights**
+- 3+ years of professional engineering experience.
+- Supported infrastructure and deployments for 10+ microservices.
+- Worked toward maintaining 99.9% service availability.
+- Focused on reducing deployment time, infrastructure provisioning effort and operational overhead.
+
+---
+
+## 🚀 Featured Projects
+
+A collection of engineering projects focused on cloud infrastructure, reliability, automation, security and systems engineering.
+
+### 🛡️ Ubuntu Vulnerability Engine (UVE)
+A Python-based CLI security auditing tool designed to identify and assess vulnerabilities in Ubuntu environments.
+
+- Automated security auditing.
+- Vulnerability assessment and reporting.
+- Published on PyPI.
+
+### ☸️ Valkyrie Platform
+A cloud-native DevOps platform built around Kubernetes and GitOps principles.
+
+- AWS EKS
+- Terraform
+- ArgoCD
+- Prometheus
+- Infrastructure automation and observability.
+
+### ⚙️ OpsForge 2.0
+An engineering initiative focused on DevOps automation and operational tooling.
+
+### 📈 Reliability Control Plane
+An engineering project exploring centralized reliability management, operational visibility and infrastructure control.
+
+### 🗄️ QuillDB
+A database engine project developed using Rust, exploring database internals and systems engineering.
+
+### 🔬 SparkSight
+An engineering project focused on data and operational insights.
+
+### 🏥 Healthcare RCM Data Platform
+A cloud-oriented data platform project focused on healthcare revenue cycle management workflows.
+
+### 🔗 TradeBridge
+A microservices-based application built around .NET architecture.
+
+---
+
+## 🛠️ Technology Stack
+
+### Programming & Scripting
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal-1207&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kunal Waghmare's GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=python,bash,rust" />
 </p>
+
+### Cloud Platforms
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-1207&theme=nightowl&radius=10" alt="kunal-1207's Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
+### Containers & Orchestration
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+</p>
 
+### Infrastructure as Code & Automation
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+### CI/CD & GitOps
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,argo" />
+</p>
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+### Monitoring & Observability
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+</p>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+**Additional Tools:** Loki, Tempo, Trivy, AWS CloudWatch, Google Cloud Operations Suite.
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+### Databases & Version Control
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git" />
+</p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+### Development Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,postman" />
+</p>
 
+---
 
+## 📊 GitHub Statistics
 
-<div align="center">
-  <!---->
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=kunal-1207&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p align="center"><sub>Kunal Waghmare  · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&theme=nightowl&hide_border=true&langs_count=10"
+    alt="Kunal's Top Languages"
+  />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kunal-1207?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/kunal-1207?style=for-the-badge&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/repositories/kunal-1207?style=for-the-badge&logo=github&label=Repositories" />
+</p>
+
+## 🎯 Currently Interested In
+
+- Cloud-native architecture and Kubernetes engineering.
+- Advanced Site Reliability Engineering practices.
+- Infrastructure automation and GitOps.
+- DevSecOps and automated vulnerability management.
+- Observability and distributed systems.
+- Building production-grade developer platforms.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing cloud infrastructure, DevOps engineering, Kubernetes, SRE, automation and interesting engineering projects.
+
+<p align="center">
+  <a href="https://github.com/kunal-1207">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devops-portfolio-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Automate everything that can be automated. Monitor everything that matters. Build systems that can recover."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed and maintained by Kunal Waghmare · Cloud DevOps Engineer</sub>
+</p>
