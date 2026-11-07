@@ -90,37 +90,37 @@ A microservices-based application built around .NET architecture.
 
 ### Programming & Scripting
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,bash,rust" />
 </p>
 
 ### Cloud Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
 ### Containers & Orchestration
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 </p>
 
 ### Infrastructure as Code & Automation
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=terraform,ansible" />
 </p>
 
 ### CI/CD & GitOps
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,argo" />
 </p>
 
 ### Monitoring & Observability
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 </p>
 
@@ -128,13 +128,13 @@ A microservices-based application built around .NET architecture.
 
 ### Databases & Version Control
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git" />
 </p>
 
 ### Development Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,postman" />
 </p>
 
