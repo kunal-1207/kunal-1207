@@ -143,8 +143,18 @@ A microservices-based application built around .NET architecture.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="GitHub Statistics" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img
+    src="./profile/stats.svg"
+    width="49%"
+    height="200"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    width="49%"
+    height="200"
+    alt="Top Languages"
+  />
 </p>
 
 ## 🏆 GitHub Achievements
