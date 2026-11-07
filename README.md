@@ -1,382 +1,65 @@
-# Hi, I'm Kunal Waghmare 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Kunal Waghmare</h1>
 
-### Cloud DevOps Engineer | Site Reliability Engineering | Platform Engineering
 
-I build cloud-native infrastructure, automate deployments, and develop Kubernetes platforms with a focus on reliability, security, observability, and operational efficiency.
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-📍 Nagpur, Maharashtra, India · Open to Remote & Relocation
-⏳ Notice Period: 15 Days · Preferred Locations: Pune, Hyderabad, Bengaluru
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kunal-1207)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-chi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
 
----
-
-## ⚡ 60-Second Recruiter Overview
-
-- **What I do:** Cloud DevOps, Kubernetes, AWS/GCP infrastructure, Terraform, CI/CD, GitOps, observability, and site reliability engineering.
-- **Featured work:** OpsForge 2.0, an Internal Developer Platform and SRE framework, and Valkyrie, a cloud-native platform built around AWS EKS, Terraform, Argo CD, Prometheus, and Grafana.
-- **Professional background:** 3 years at Infosubway Technologies across software engineering, DevOps, and SRE, preceded by a 6-month DevOps internship at Datacom.
-
-**Target roles:** Cloud DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud Infrastructure Engineer
-
-**Work preferences:** Remote or relocation · Pune · Hyderabad · Bengaluru
-
----
-
-## 👨‍💻 About Me
-
-I'm a Cloud DevOps Engineer with an MCA from Jain University and professional experience spanning software engineering, DevOps, and site reliability engineering.
-
-At Infosubway Technologies, I worked across software engineering and infrastructure operations, developing experience in deployment automation, cloud infrastructure, monitoring, and reliability-focused engineering.
-
-Beyond my professional experience, I build hands-on projects that explore modern platform engineering, cloud-native architecture, infrastructure as code, security automation, and operational tooling.
-
-My engineering approach is built around five principles:
-
-- **Reproducibility:** Infrastructure and deployments should be consistent and repeatable.
-- **Reliability:** Systems should be observable, resilient, and recoverable.
-- **Automation:** Eliminate repetitive operational work wherever practical.
-- **Security:** Integrate vulnerability assessment and secure configuration into engineering workflows.
-- **Maintainability:** Build systems that engineers can understand, operate, and improve.
-
-I'm particularly interested in the intersection of Kubernetes, cloud infrastructure, platform engineering, and SRE.
-
----
-
-## 🎯 Career Focus
-
-I'm actively exploring opportunities in:
-
-- Cloud DevOps Engineering
-- Site Reliability Engineering (SRE)
-- Platform Engineering
-- Cloud Infrastructure Engineering
-- DevSecOps Engineering
-
-I'm open to remote opportunities and relocation across India, particularly Pune, Hyderabad, and Bengaluru.
-
----
-
-## 🧰 Technical Skills
-
-### Cloud Platforms & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-- **AWS:** EC2, EKS, IAM, VPC, Lambda, CloudWatch, Route 53
-- **Google Cloud Platform:** GCP infrastructure, Kubernetes, Terraform, Cloud Operations
-- **Infrastructure as Code:** Terraform, Ansible
-
-### Containers & Platform Engineering
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Crossplane](https://img.shields.io/badge/Crossplane-3B82F6?style=flat-square)
-
-- Docker and containerized workloads
-- Kubernetes and Amazon EKS
-- Helm-based application deployment
-- Argo CD and GitOps workflows
-- Crossplane and platform provisioning concepts
-- KEDA and event-driven workload scaling
-
-### CI/CD & Automation
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-- Jenkins, GitHub Actions, and GitLab CI
-- Python and Bash scripting
-- Infrastructure provisioning automation
-- Deployment pipelines and release workflows
-- GitOps-oriented delivery
-
-### Observability & Reliability Engineering
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=black)
-
-- Prometheus and Grafana
-- OpenTelemetry
-- Loki and ELK Stack
-- Metrics, logs, and observability pipelines
-- Monitoring, alerting, and reliability workflows
-- SRE concepts, incident response, and operational improvement
-
-### Security & Systems
-
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-- Linux administration and troubleshooting
-- Container and dependency vulnerability assessment
-- Trivy and security-aware CI/CD
-- IAM, RBAC, and access-control concepts
-- Git and version control
-- Ubuntu/Debian package security analysis
-
-*The technologies listed above span professional experience, personal projects, and hands-on learning. Their inclusion does not imply production-level experience with every tool.*
-
----
-
-# 🚀 Featured Projects
-
-## 1. OpsForge 2.0 — Internal Developer Platform & SRE Framework
-
-**Focus:** Platform Engineering · Developer Experience · Infrastructure Automation · SRE
-
-OpsForge 2.0 explores a unified platform for infrastructure provisioning, workload operations, deployment automation, and reliability engineering.
-
-The project brings together cloud-native infrastructure, developer workflows, observability, and operational tooling to explore how platform capabilities can be delivered through reusable engineering components.
-
-### Architecture & Technology Areas
-
-| Domain | Technologies |
-|---|---|
-| Infrastructure as Code | Terraform |
-| Container Orchestration | Kubernetes |
-| Platform Provisioning | Crossplane |
-| Workload Scaling | KEDA |
-| Observability | OpenTelemetry |
-| GitOps | Git-based delivery workflows |
-| Resilience Engineering | Chaos Mesh |
-| Backend & Automation | Go, Python, Groovy, PowerShell |
-| Developer Interfaces | TypeScript |
-
-### Engineering Focus
-
-- Explore reusable infrastructure and platform provisioning workflows.
-- Integrate Kubernetes-based workload orchestration.
-- Develop platform automation and developer-facing operational workflows.
-- Explore telemetry collection and observability integration.
-- Investigate workload scaling and resilience testing.
-- Bring multiple languages and tools together within a cohesive platform architecture.
-
-🔗 **Repository:** [OpsForge](https://github.com/kunal-1207/OpsForge)
-
----
-
-## 2. Valkyrie Platform — Cloud-Native DevOps Platform
-
-**Focus:** AWS · Kubernetes · GitOps · Observability · SRE
-
-Valkyrie is a cloud-native DevOps platform project built around Kubernetes on AWS, infrastructure as code, GitOps-based delivery, and operational observability.
-
-The project explores how cloud infrastructure, application delivery, monitoring, and operational tooling can work together as a cohesive platform.
-
-### Technology Stack
-
-| Domain | Technologies |
-|---|---|
-| Cloud | AWS |
-| Kubernetes | Amazon EKS |
-| Infrastructure as Code | Terraform |
-| GitOps | Argo CD |
-| Monitoring | Prometheus |
-| Dashboards | Grafana |
-| AI/Local Model Integration | Ollama |
-| Operations | SRE Command Center concept |
-
-### Engineering Focus
-
-- Provision cloud infrastructure using Terraform.
-- Explore Kubernetes-based workload deployment on Amazon EKS.
-- Manage application delivery through Argo CD.
-- Integrate Prometheus and Grafana for monitoring and visualization.
-- Explore AI-assisted operational workflows through Ollama.
-- Develop an SRE Command Center concept for operational visibility.
-
-🔗 **Repository:** [Valkyrie Platform](https://github.com/kunal-1207/valkarie_platform)
-
----
-
-## 3. Cloud Native DevOps Platform
-
-**Focus:** Infrastructure as Code · Kubernetes · CI/CD · GitOps
-
-A cloud-native infrastructure and deployment project focused on repeatable provisioning, container orchestration, GitOps, and monitoring.
-
-### Technology Stack
-
-- Terraform
-- Kubernetes
-- Argo CD
-- Prometheus
-
-### Engineering Focus
-
-- Infrastructure provisioning through code.
-- Kubernetes-based application deployment.
-- GitOps-oriented delivery workflows.
-- Monitoring integration for cloud-native workloads.
-
-🔗 **Repository:** [Cloud Native DevOps Platform](https://github.com/kunal-1207/cloud-native-devops-platform)
-
----
-
-# 🔐 Security Engineering & Developer Tools
-
-## Ubuntu Vulnerability Engine (UVE)
-
-**A read-only vulnerability auditing engine for Ubuntu and Debian environments.**
-
-UVE is a security-focused CLI tool designed to identify vulnerable software packages and correlate package information with public vulnerability intelligence.
-
-The project supports native host auditing, container image filesystem inspection, and CycloneDX SBOM ingestion.
-
-### Key Capabilities
-
-- **Native host scanning:** Identify installed packages using Debian package metadata and operating-system information.
-- **Container image scanning:** Inspect Docker/OCI image filesystems without executing the image.
-- **SBOM ingestion:** Ingest CycloneDX v1.5 software bills of materials.
-- **Vulnerability correlation:** Match package information against vulnerability intelligence.
-- **Security intelligence:** Integrate data from Canonical OSV, CISA Known Exploited Vulnerabilities (KEV), and FIRST.org.
-- **Read-only operation:** Designed to audit environments without modifying the scanned host.
-- **Distribution:** Published on PyPI.
-
-### Why This Project Matters
-
-UVE explores practical approaches to software supply-chain security, vulnerability assessment, container security, and automated security reporting.
-
-It connects infrastructure engineering with security tooling by making vulnerability information accessible through a repeatable auditing workflow.
-
-🔗 **GitHub Repository:** [Ubuntu Vulnerability Engine](https://github.com/kunal-1207/ubuntu-vulnerability-tracker)
-
-📦 **PyPI:** [Ubuntu Vulnerability Engine](https://pypi.org/)
-
----
-
-# 🧪 Additional Engineering Projects
-
-| Project | Description | Primary Technology |
-|---|---|---|
-| **QuillDB** | A Rust-based database engine project exploring database internals and storage-engine concepts. | Rust |
-| **Reliability Control Plane** | A project exploring reliability-focused operational controls and system management. | See repository |
-| **SparkSight** | A Scala-based observability platform project. | Scala |
-| **Healthcare RCM Data Platform** | A data-platform project focused on healthcare revenue-cycle management workflows. | See repository |
-
-These projects represent additional interests across systems programming, databases, observability, reliability engineering, and data platforms.
-
----
-
-# 💼 Professional Experience
-
-## Infosubway Technologies
-
-**Software Engineer → DevOps Engineer / Site Reliability Engineer**
-
-*January 2023 – December 2025 · 3 years*
-
-Worked across software engineering, DevOps, and site reliability engineering responsibilities, with a focus on cloud infrastructure, deployment workflows, automation, and operational reliability.
-
-### Areas of Responsibility
-
-- Contributed across software engineering, DevOps, and SRE workflows.
-- Worked on infrastructure, deployment automation, and cloud-native operational practices.
-- Focused on improving deployment consistency, system observability, and operational efficiency.
-- Developed experience with cloud infrastructure, monitoring, automation, and reliability-focused engineering.
-
-### Engineering Outcomes
-
-My resume includes the following reported engineering metrics:
-
-- **99.9% availability**
-- **40% reduction in operational effort**
-- **50% reduction in infrastructure provisioning time**
-- **65% reduction in deployment time**
-- **50% reduction in MTTR**
-
-These figures should be associated with the specific systems, workflows, measurement periods, and contributions that produced them. They are not presented here as independently audited company-wide results.
-
----
-
-## Datacom
-
-**DevOps Intern**
-
-*6-month internship · Ended November 2022*
-
-Completed a six-month DevOps internship, gaining early professional exposure to DevOps practices and engineering workflows.
-
-The internship preceded my full-time engineering role at Infosubway Technologies.
-
----
-
-# ☁️ Google Cloud Learning & Badges
-
-I've completed Google Cloud learning activities covering infrastructure automation, Kubernetes, DevOps workflows, and cloud observability.
-
-### Learning Achievements
-
-- Terraform on Google Cloud
-- Deploy Kubernetes Apps on Google Cloud
-- Implement DevOps Workflows in Google Cloud
-- Monitor and Log with Google Cloud Operations Suite
-- Monitor Environments with Google Cloud Managed Service for Prometheus
-
-These learning activities complement my cloud-native projects and ongoing development in GCP infrastructure, Kubernetes, and observability.
-
-🔗 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
-
----
-
-# 🎓 Education
-
-## Jain University
-
-**Master of Computer Applications (MCA)**
-
-CGPA: **7.8**
-
----
-
-# 📈 GitHub Activity
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&hide_border=true"
-alt="Kunal Waghmare's GitHub statistics"
-/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&hide_border=true"
-alt="Most used programming languages"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-1207&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="kunal-1207's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kunal-1207&theme=nightowl&hide_border=true&cache_seconds=86400" alt="kunal-1207's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-<img
-src="https://streak-stats.demolab.com?user=kunal-1207&hide_border=true"
-alt="GitHub contribution streak"
-/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-1207&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
-
----
-
-# 📫 Connect With Me
-
-- **GitHub:** [github.com/kunal-1207](https://github.com/kunal-1207)
-- **LinkedIn:** [linkedin.com/in/kunal-waghmare-b48b1b226](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
-- **Portfolio:** [devops-portfolio-chi.vercel.app](https://devops-portfolio-chi.vercel.app/)
-- **Email:** [kunalwaghmare1207@gmail.com](mailto:kunalwaghmare1207@gmail.com)
-- **Location:** Nagpur, Maharashtra, India
-
-I'm open to discussing opportunities involving Cloud DevOps, Kubernetes, AWS, GCP, Terraform, Site Reliability Engineering, infrastructure automation, observability, and platform engineering.
-
----
-
 <p align="center">
-<i>Building reliable systems through automation, observability, security, and continuous learning.</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal-1207&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kunal Waghmare's GitHub Trophies" />
 </p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-1207&theme=nightowl&radius=10" alt="kunal-1207's Activity Graph" />
+</p>
+
+
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+
+<div align="center">
+  <!---->
+</div>
+
+<p align="center"><sub>Kunal Waghmare  · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
