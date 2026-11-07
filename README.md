@@ -1,4 +1,4 @@
-# Hey, I'm Kunal Waghmare 👋
+# Hey, I'm Kunal Waghmare 
 
 ### Cloud DevOps Engineer | Site Reliability Engineering | Platform Engineering | DevSecOps
 
